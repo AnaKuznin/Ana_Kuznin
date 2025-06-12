@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: darkturquoise;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 14px;
+	line-height: 18px;
+	width: 600px;
+	background-color: mintcream;
+	padding: 20px;
+}
+.paragraf_2 {color: mediumpurple; background-color: rgba(203,249,255,0.50)}
+.novi_blok{
+	background-color: rgba(255,207,253,0.56);
+	padding: 20px;
+	margin: 20px;
+	width: 60%;
+}
+h1, h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: darkviolet;
+}
+
+span {color: rgba(228,96,215,1.00);}
+.pozadina{
+	background-image: url("slike/slika.jpeg");
+}
+.drugapozadina {
+	background-color: lightpink;
+}
+a:link {
+	color: deeppink;
+	background-color: lightyellow;
+	padding: 5px;
+	line-height: 25px;
+	border: 1px solid #00000;
+}
+a:hover{
+	background-color: lightpink;
+}
+img{
+	height: 400px;
+}
